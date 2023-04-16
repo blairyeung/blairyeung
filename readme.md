@@ -1,5 +1,5 @@
-##  
-I am **Blair Yang** , a sophomore at the University of Toronto, Computer Science & Bioinformatics Specialist.
+# I am
+**Blair Yang** , a sophomore at the University of Toronto, Computer Science & Bioinformatics Specialist.
 
 ## 📧 Reach me through
 
