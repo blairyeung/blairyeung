@@ -10,6 +10,7 @@
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
+- Reinforcement Learning
 
 ## 💻 I code with 
 
