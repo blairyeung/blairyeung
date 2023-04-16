@@ -5,7 +5,6 @@ Hi there! I'm **Blair Yang**, a passionate and motivated sophomore studying Comp
 
 🌱 I’m constantly learning and experimenting with new technologies and techniques to further my understanding in my areas of interest.
 
-
 ## 🔭 My Research & Project Interests
 - Machine Learning
 - Computer Vision
