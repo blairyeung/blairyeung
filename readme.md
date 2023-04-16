@@ -5,13 +5,13 @@
 
 - loveblairsky@gmail.com
 
-## ✨ I can do
+## ✨ I do
 
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
 
-## ✨ I code with 
+## 💻 I code with 
 
 - Python
 - Java
