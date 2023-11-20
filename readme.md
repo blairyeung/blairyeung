@@ -33,7 +33,7 @@ Hi there! I'm **Blair Yang**, a passionate and motivated sophomore studying Comp
 
 ## 🏆 Achievements
 - University of Toronto Dean's List
-- Tencent's Reinforcement Learning competition, finalist
+- Tencent's Reinforcement Learning competition, 4th place
 - Peer reviewer at [PLOS ONE](https://plos.org/)
 
 
